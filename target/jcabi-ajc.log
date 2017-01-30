@@ -1,0 +1,97 @@
+Thu Jan 12 11:22:39 CET 2017
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\ImmutabilityChecker.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodCacher.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodCacher.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodScheduler.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodScheduler.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\ImmutabilityChecker.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodCacher.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodCacher.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodScheduler.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodScheduler.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+controller\allControllers.java:27 [warning] can not implement lazyTjp on this joinpoint method-execution(java.lang.String controller.allControllers.defHandler()) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(java.lang.String controller.allControllers.defHandler())' in Type 'controller.allControllers' (allControllers.java:27) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.5.jar!MethodLogger.class(from MethodLogger.java))
+	
+controller\allControllers.java:33 [warning] can not implement lazyTjp on this joinpoint method-execution(java.lang.String controller.allControllers.defHandlerIn()) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(java.lang.String controller.allControllers.defHandlerIn())' in Type 'controller.allControllers' (allControllers.java:33) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.5.jar!MethodLogger.class(from MethodLogger.java))
+	
+controller\allControllers.java:38 [warning] can not implement lazyTjp on this joinpoint method-execution(java.lang.String controller.allControllers.defHandlerS()) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(java.lang.String controller.allControllers.defHandlerS())' in Type 'controller.allControllers' (allControllers.java:38) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.5.jar!MethodLogger.class(from MethodLogger.java))
+	
+controller\allControllers.java:42 [warning] can not implement lazyTjp on this joinpoint method-execution(java.lang.String controller.allControllers.defWelcome()) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(java.lang.String controller.allControllers.defWelcome())' in Type 'controller.allControllers' (allControllers.java:42) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.5.jar!MethodLogger.class(from MethodLogger.java))
+	
+controller\allControllers.java:46 [warning] can not implement lazyTjp on this joinpoint method-execution(java.lang.String controller.allControllers.errorHandler()) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(java.lang.String controller.allControllers.errorHandler())' in Type 'controller.allControllers' (allControllers.java:46) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.5.jar!MethodLogger.class(from MethodLogger.java))
+	
+controller\allControllers.java:52 [warning] can not implement lazyTjp on this joinpoint method-execution(java.lang.String controller.allControllers.handlerLoged(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(java.lang.String controller.allControllers.handlerLoged(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse))' in Type 'controller.allControllers' (allControllers.java:52) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.5.jar!MethodLogger.class(from MethodLogger.java))
+	
+controller\allControllers.java:71 [warning] can not implement lazyTjp on this joinpoint method-execution(java.lang.String controller.allControllers.handlerLogOut(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(java.lang.String controller.allControllers.handlerLogOut(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse))' in Type 'controller.allControllers' (allControllers.java:71) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.5.jar!MethodLogger.class(from MethodLogger.java))
+	
+controller\allControllers.java:87 [warning] can not implement lazyTjp on this joinpoint method-execution(java.lang.String controller.allControllers.getDataStudent(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(java.lang.String controller.allControllers.getDataStudent(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse))' in Type 'controller.allControllers' (allControllers.java:87) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.5.jar!MethodLogger.class(from MethodLogger.java))
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] advice defined in com.jcabi.aspects.aj.MethodValidator has not been applied [Xlint:adviceDidNotMatch]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\SingleException.class [warning] advice defined in com.jcabi.aspects.aj.SingleException has not been applied [Xlint:adviceDidNotMatch]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\ExceptionsLogger.class [warning] advice defined in com.jcabi.aspects.aj.ExceptionsLogger has not been applied [Xlint:adviceDidNotMatch]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodLogger.class [warning] advice defined in com.jcabi.aspects.aj.MethodLogger has not been applied [Xlint:adviceDidNotMatch]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodAsyncRunner.class [warning] advice defined in com.jcabi.aspects.aj.MethodAsyncRunner has not been applied [Xlint:adviceDidNotMatch]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodScheduler.class [warning] advice defined in com.jcabi.aspects.aj.MethodScheduler has not been applied [Xlint:adviceDidNotMatch]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodCacher.class [warning] advice defined in com.jcabi.aspects.aj.MethodCacher has not been applied [Xlint:adviceDidNotMatch]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\Parallelizer.class [warning] advice defined in com.jcabi.aspects.aj.Parallelizer has not been applied [Xlint:adviceDidNotMatch]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\QuietExceptionsLogger.class [warning] advice defined in com.jcabi.aspects.aj.QuietExceptionsLogger has not been applied [Xlint:adviceDidNotMatch]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\MethodInterrupter.class [warning] advice defined in com.jcabi.aspects.aj.MethodInterrupter has not been applied [Xlint:adviceDidNotMatch]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\Repeater.class [warning] advice defined in com.jcabi.aspects.aj.Repeater has not been applied [Xlint:adviceDidNotMatch]
+	
+D:\DevConfiguration\Maven\apache-maven-3.3.9\repository\com\jcabi\jcabi-aspects\0.22.5\jcabi-aspects-0.22.5.jar!com\jcabi\aspects\aj\ImmutabilityChecker.class [warning] advice defined in com.jcabi.aspects.aj.ImmutabilityChecker has not been applied [Xlint:adviceDidNotMatch]
+	
